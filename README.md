@@ -46,5 +46,5 @@
   <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RahulDhiman93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/RahulDhiman93">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulDhiman93&hide_progress=true&hide=jupyter%20notebook,html,css&layout=compact&langs_count=10&theme=algolia&card_width=320"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulDhiman93&hide_progress=true&hide=jupyter%20notebook,html,css&layout=compact&langs_count=10&theme=algolia&card_width=280"/>
 </a>
