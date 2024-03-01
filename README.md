@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello world, I'm Rahul Dhiman</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello world 👋, I'm Rahul Dhiman 👨🏻‍💻</h2>
 
 <p align="left">
 <a href="https://rahuldhiman93.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
