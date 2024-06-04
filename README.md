@@ -36,7 +36,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;\
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud)&nbsp;
 ![Oracle Cloud](https://img.shields.io/badge/-OracleCloud-05122A?style=flat&logo=oracle)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
