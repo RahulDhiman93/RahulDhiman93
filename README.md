@@ -57,8 +57,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/RahulDhiman93">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RahulDhiman93&show_icons=true&theme=algolia&count_private=true&hide_rank=true&show=prs_merged,prs_merged_percentage&&hide=contribs,stars&card_width=380" />
+  <img height=200 align="center" src="https://github-readme-rd-ltzi.vercel.app/api?username=RahulDhiman93&show_icons=true&theme=algolia&count_private=true&hide_rank=true&show=prs_merged,prs_merged_percentage&&hide=contribs,stars&card_width=380" />
 </a>
 <a href="https://github.com/RahulDhiman93" >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulDhiman93&hide_progress=true&hide=html,css&layout=compact&langs_count=10&theme=algolia&card_width=320"/>
+  <img height=200 align="center" src="https://github-readme-rd-ltzi.vercel.app/api/top-langs?username=RahulDhiman93&hide_progress=true&hide=html,css&layout=compact&langs_count=10&theme=algolia&card_width=320"/>
 </a>
