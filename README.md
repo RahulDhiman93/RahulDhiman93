@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello world 👋, I'm Rahul Dhiman 👨🏻‍💻</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello world 👋, I'm Rahul Dhiman 👨🏻‍💻</h2>
 
 <p align="left">
 <a href="https://rahuldhiman93.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -6,53 +6,56 @@
 </p>
 
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Santa Clara University.\
-👨🏻‍💻 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Music Production as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at rahul-dhiman@outlook.com! I'll try to respond as soon as I can.
+💻 &nbsp;Software Engineer at [LiveX AI](https://livex.ai/) — building across backend, frontend, and AI infrastructure.\
+🎓 &nbsp;Master's in Computer Science from Santa Clara University.\
+🧠 &nbsp;Currently exploring AI tooling, edge runtimes, and large-scale search & retrieval systems.\
+🛠️ &nbsp;Day-to-day stack: Go, TypeScript/React, Python, Elasticsearch, GCP — with a healthy dose of LLM agents.\
+🎧 &nbsp;Outside of code: producing music, designing, and tinkering with new consumer tech.\
+✉️ &nbsp;Reach me at rahul-dhiman@outlook.com — happy to chat about engineering, AI, or collaborations.
+
+### 🚀 &nbsp;Featured Project
+
+#### [Tokenomy](https://github.com/RahulDhiman93/Tokenomy) — Stop burning tokens on tool chatter
+
+A surgical hook + analysis toolkit for **Claude Code** and **Codex CLI** that trims bloated MCP responses, clamps oversized file reads, and benchmarks historical waste — so your agent spends tokens on *thinking*, not parsing 40 KB of Jira JSON for the third time. &nbsp; 📦 [npm](https://www.npmjs.com/package/tokenomy)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;\
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=googlecolab)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)\
+![Mantine](https://img.shields.io/badge/-Mantine-05122A?style=flat&logo=mantine)&nbsp;
+![Tauri](https://img.shields.io/badge/-Tauri-05122A?style=flat&logo=tauri)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;\
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;\
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud)&nbsp;
-![Oracle Cloud](https://img.shields.io/badge/-OracleCloud-05122A?style=flat&logo=oracle)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)\
-![gRPC](https://img.shields.io/badge/-gRPC-05122A?style=flat&logo=trpc)
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
-![REST](https://img.shields.io/badge/-REST-05122A?style=flat&logo=linkerd)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)\
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![gRPC](https://img.shields.io/badge/-gRPC-05122A?style=flat&logo=trpc)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![REST](https://img.shields.io/badge/-REST-05122A?style=flat&logo=linkerd)&nbsp;\
+![Anthropic](https://img.shields.io/badge/-Anthropic-05122A?style=flat&logo=anthropic)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain)&nbsp;
+![MCP](https://img.shields.io/badge/-MCP-05122A?style=flat&logo=anthropic)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
